@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
 	},
 	text: {
 		fontSize: 36,
-		fontWeight: "bold",
 		color: colors.accent500,
+		fontFamily: "open-sans-bold",
 	},
 });
