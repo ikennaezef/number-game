@@ -4,6 +4,6 @@ This is my first app with React Native. It is a number guessing game. You pick a
 
 ## Screenshots
 
-![Start Game Screen](./screenshots/startgame.png)
-![Game Screen](./screenshots/game.png)
-![Game Over Screen](./screenshots/gameover.png)
+- [Start Game Screen](./screenshots/startgame.png)
+- [Game Screen](./screenshots/game.png)
+- [Game Over Screen](./screenshots/gameover.png)
