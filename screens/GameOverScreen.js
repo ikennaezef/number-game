@@ -31,7 +31,7 @@ const GameOverScreen = ({ userNumber, guesses, onRestart }) => {
 	};
 
 	return (
-		<ScrollView style={{ flex: 1 }}>
+		<ScrollView contentContainerStyle={styles.container}>
 			<View style={styles.container}>
 				<Title>Game Over</Title>
 				<View style={[styles.imageContainer, imageStyle]}>
